@@ -1,0 +1,30 @@
+_repo: Peeps-at-Many-Lands-Japan_7936
+contributor:
+  illustrator:
+    agent_name: Du Cane, Ella
+    alias: Cane, Ella Du
+    gutenberg_agent_id: '34838'
+    url: http://www.gutenberg.org/2009/agents/34838
+creator:
+  author:
+    agent_name: Finnemore, John
+    alias: Finnemore, J. (John)
+    birthdate: 1863
+    deathdate: 1915
+    gutenberg_agent_id: '2579'
+    url: http://www.gutenberg.org/2009/agents/2579
+    wikipedia: http://en.wikipedia.org/wiki/John_Finnemore_(author)
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+title: 'Peeps at Many Lands: Japan'
+url: http://www.gutenberg.org/ebooks/7936
